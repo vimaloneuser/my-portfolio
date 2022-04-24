@@ -74,6 +74,16 @@ const Skills = () => {
               </div>
             ))}
           </div>
+          <div className="btn-download w-100">
+            <a
+              href="assets/resume/vimal_patel_developer.pdf"
+              target="_blank"
+              rel="noreferrer"
+              className="btn btn-warning"
+            >
+              View Resume
+            </a>
+          </div>
         </div>
       </section>
     </React.Fragment>

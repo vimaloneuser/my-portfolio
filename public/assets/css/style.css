@@ -879,6 +879,10 @@ blockquote {
   width: 70%;
 }
 
+.btn-download{
+  text-align: center;
+}
+
 @media (max-width: 600px) {
   .custom-logo {
     height: 30%;
